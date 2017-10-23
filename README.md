@@ -65,3 +65,21 @@ _______________________________________________
      . Instalação: pip install (seu arquivo .whl aqui)
         
           . Exemplo: pip install wordcloud‑1.3.2‑cp36‑cp36m‑win_amd64.whl
+
+_____________________________________________________________________________
+
+<h3>Exemplo: Nuvem Gerada</h3>
+
+Raspei Tweets mais recentes, com assunto João Doria, e ao gerar a nuvem, é possível visualizar as palavras que mais foram ligadas ao nome dele.
+
+![Alt text](https://github.com/tiagosoares94/ScrapTwitterWordCloud/blob/master/Exemplos/doria.png "Nuvem Doria")
+
+Para mais demonstrações de nuvens, acesse a pasta Exemplos desse repositório. Nela contém algumas nuvens de alguns candidatos a presidência em 2018.
+
+_____________________________________________________________________________
+
+<h3>Dúvidas?</h3>
+
+Email: tiago.soares@fatec.sp.gov.br
+
+Facebook: fb.com/tiago.soares94
